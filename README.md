@@ -6,7 +6,8 @@ This is an index of small JavaScript projects - 1 project per day for 30 Days.
 
 ### 01 - Marshmello Drum Kit
 - Utilizes key and transitionEnd events to play audio when data keys are selected on keyboard.
-### 02 - 
+### 02 - Alesso CSS & JS Clock
+- Analog clock utilizes real time to move the clock hands
 ### 03 - 
 ### 04 - 
 ### 05 - 
