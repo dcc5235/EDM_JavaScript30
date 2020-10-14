@@ -10,10 +10,10 @@ This is an index of small JavaScript projects - 1 project per day for 30 Days.
 - Analog clock utilizes real time to move the clock hands.
 ### 03 - Zedd Image Editor (CSS & JS)
 - An editor that allows the border and image to change colors or be blurred.
-### 04 - 
-### 05 - 
-### 06 - 
-### 07 - 
+### 04 - Arrays Pt. 1
+### 05 - Flex Panels Image Gallery
+### 06 - Ajax Type Ahead
+### 07 - Arrays Pt. 2
 ### 08 - 
 ### 09 - 
 ### 10 - 
