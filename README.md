@@ -14,11 +14,11 @@ This is an index of small JavaScript projects - 1 project per day for 30 Days.
 ### 05 - Flex Panels Image Gallery
 ### 06 - Ajax Type Ahead
 ### 07 - Arrays Pt. 2
-### 08 - 
-### 09 - 
-### 10 - 
-### 11 - 
-### 12 - 
+### 08 - HTML5 Canvas
+### 09 - Dev Tools
+### 10 - Checkboxes
+### 11 - HTML5 Video Player
+### 12 - Key Sequence Detection
 ### 13 - 
 ### 14 - 
 ### 15 - 
