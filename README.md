@@ -1,6 +1,6 @@
 # 30 Simple JavaScript Projects
 
-This is an index of small JavaScript projects - 1 project per day for 30 Days. 
+This is an index of small JavaScript projects. 
 
 ---
 
