@@ -19,9 +19,9 @@ This is an index of small JavaScript projects.
 ### 10 - Checkboxes
 ### 11 - HTML5 Video Player
 ### 12 - Key Sequence Detection
-### 13 - 
-### 14 - 
-### 15 - 
+### 13 - Slide In on Scroll
+### 14 - Object and Arrays
+### 15 - Local Storage and Event Delegation
 ### 16 - 
 ### 17 - 
 ### 18 - 
