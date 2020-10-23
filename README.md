@@ -11,7 +11,8 @@ This is an index of small JavaScript projects.
 ### 03 - Zedd Image Editor (CSS & JS)
 - An editor that allows the border and image to change colors or be blurred.
 ### 04 - Arrays Pt. 1
-### 05 - Flex Panels Image Gallery
+### 05 - Galantis Image Gallery
+- A five panel image gallery utilizing animation on flex to bring text into display with click event.
 ### 06 - Ajax Type Ahead
 ### 07 - Arrays Pt. 2
 ### 08 - HTML5 Canvas
