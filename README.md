@@ -14,7 +14,8 @@ This is an index of small JavaScript projects.
 - Shopping list which allows keypress and click to enter string of text to shopping list.
 ### 05 - Galantis Image Gallery
 - A five panel image gallery utilizing animation on flex to bring text into display with click event.
-### 06 - Ajax Type Ahead
+### 06 - Background Generator
+- A color picker that allows background colors to change when chosen from a color input.
 ### 07 - Arrays Pt. 2
 ### 08 - HTML5 Canvas
 ### 09 - Dev Tools
