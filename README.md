@@ -10,7 +10,8 @@ This is an index of small JavaScript projects.
 - Analog clock utilizes real time to move the clock hands.
 ### 03 - Zedd Image Editor (CSS & JS)
 - An editor that allows the border and image to change colors or be blurred.
-### 04 - Arrays Pt. 1
+### 04 - Shopping List
+- Shopping list which allows keypress and click to enter string of text to shopping list.
 ### 05 - Galantis Image Gallery
 - A five panel image gallery utilizing animation on flex to bring text into display with click event.
 ### 06 - Ajax Type Ahead
