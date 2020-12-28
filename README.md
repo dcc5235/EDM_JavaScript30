@@ -1,6 +1,4 @@
-# 30 Simple JavaScript Projects
-
-This is an index of small JavaScript projects. 
+# Index of Vanilla JavaScript Projects
 
 ---
 
@@ -16,27 +14,3 @@ This is an index of small JavaScript projects.
 - A five panel image gallery utilizing animation on flex to bring text into display with click event.
 ### 06 - Background Generator
 - A color picker that allows background colors to change when chosen from a color input.
-### 07 - Arrays Pt. 2
-### 08 - HTML5 Canvas
-### 09 - Dev Tools
-### 10 - Checkboxes
-### 11 - HTML5 Video Player
-### 12 - Key Sequence Detection
-### 13 - Slide In on Scroll
-### 14 - Object and Arrays
-### 15 - Local Storage and Event Delegation
-### 16 - 
-### 17 - 
-### 18 - 
-### 19 - 
-### 20 - 
-### 21 - 
-### 22 - 
-### 23 - 
-### 24 - 
-### 25 - 
-### 26 - 
-### 27 - 
-### 28 - 
-### 29 -
-### 30 - 
